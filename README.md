@@ -1,110 +1,61 @@
+# mycode (Project Title)
 
-## Installation
+One Paragraph of your project description goes here. Describe what you're trying to do. What is the purpose of putting up this repo?
 
-- All the `code` required to get started
-- Images of what it should look like
+## Getting Started
 
-### Clone
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+### Prerequisites
 
-### Setup
+What things you need to install the software and how to install them. For now, maybe copy in how to install python and python3 using apt.
 
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
-
-```shell
-$ brew update
-$ brew install fvcproductions
+```
+Give examples
 ```
 
-> now install npm and bower packages
+### Installing
 
-```shell
-$ npm install
-$ bower install
+A step by step series of examples that tell you have to get a development env running. Eventually, maybe we could list Python package requirements here. You can remove this section for now, or make a note to yourself to fill it out later.
+
+```
+Give the example
 ```
 
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
+And repeat other install steps...
 
----
+```
+until finished
+```
 
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
+End with an example of getting some data out of the system or using it for a little demo
 
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
+## Running the tests
 
----
+Explain how to run the automated tests for this system. We don't have any, so just make a note that they are none at this time.
+
+## Deployment
+
+Here we might put additional notes about how to deploy on various systems. For now, put a note that we're testing our code on Linux Ubuntu 16.04 LTS. 
+
+## Built With
+
+* [Python](https://www.python.org/) - The coding language used
 
 ## Contributing
 
-> To get started...
+Here you could make notes about how others might contribute to your code. For right now, a friendly message saying you'll accept any and all help from other coders would be great!
 
-### Step 1
+## Authors
 
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
-
----
-
-## Team
-
-> Or Contributors/People
-
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
-| :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
-
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
-
----
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
-
----
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
-
----
-
-## Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
-
----
+* **Your Name** - *Initial work* - [YourWebsite](https://example.com/)
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+This project is licensed under the GNUv3 - see the [LICENSE.md](LICENSE.md) file for details
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
